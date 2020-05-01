@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>
+Some Markdown text with 
 
 # Header 1
 ## Header 2
@@ -27,7 +27,7 @@ Some Markdown text with <span style="color:blue">some *blue* text</span>
 
 [Link](url) and ![Image](src)
 ```
-
+<span style="color:blue">some *blue* text</span>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
